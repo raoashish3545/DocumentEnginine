@@ -1,0 +1,4 @@
+[
+  {"customer_id": 301, "first_name": "Will", "last_name": "Grant", "email": "will.grant@example.com"},
+  {"customer_id": 302, "first_name": "Xena", "last_name": "Lopez", "email": "xena.lopez@example.com",
+]

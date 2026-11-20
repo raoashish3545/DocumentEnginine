@@ -1,0 +1,7 @@
+{"customer_id": 201, "first_name": "Sara", "last_name": "Ahmed", "email": "sara.ahmed@example.com", "age": 33, "country": "Egypt", "signup_date": "2023-03-03", "total_spend": 870.0, "is_active": true}
+{"customer_id": 202, "first_name": "Tom", "last_name": "Becker", "email": "tom.becker@example.com", "age": 58, "country": "Germany", "signup_date": "2019-09-09", "total_spend": 4100.5, "is_active": false}
+{"customer_id": 203, "first_name": "Broken", "last_name":
+
+{"customer_id": 0, "first_name": "Uma", "last_name": "Iyer", "email": "uma.iyer@example.com", "age": 29, "country": "India", "signup_date": "2024-07-07", "total_spend": 55.0, "is_active": true}
+{"customer_id": 201, "first_name": "Sara", "last_name": "Ahmed", "email": "sara.ahmed@example.com", "age": 33, "country": "Egypt", "signup_date": "2023-03-03", "total_spend": 870.0, "is_active": true}
+{"customer_id": 205, "first_name": "Victor", "last_name": "Dubois", "email": "victor.dubois@example.com", "age": 42, "country": "France", "signup_date": "2022-01-20", "total_spend": 1200.0, "is_active": true}

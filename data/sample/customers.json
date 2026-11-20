@@ -1,0 +1,12 @@
+[
+  {"customer_id": 101, "first_name": "Liam", "last_name": "Nguyen", "email": "liam.nguyen@example.com", "age": 36, "country": "Vietnam", "signup_date": "2023-04-11", "total_spend": 420.0, "is_active": true},
+  {"customer_id": 102, "first_name": "Mia", "last_name": "Patel", "email": "mia.patel@example.com", "age": null, "country": "India", "signup_date": "2022-08-19", "total_spend": 0, "is_active": false},
+  {"customer_id": "103", "first_name": "Nora", "last_name": "Fischer", "email": "nora.fischer@example.com", "age": "44", "country": "Germany", "signup_date": "2021-12-01", "total_spend": "99.99", "is_active": "true"},
+  {"customer_id": 104, "first_name": "Noah", "last_name": "Kim", "age": 28, "country": "South Korea", "signup_date": "2024-05-05", "total_spend": 150.0, "is_active": true},
+  {"customer_id": 105, "first_name": "Olivia", "last_name": "Chen", "email": "olivia.chen@example.com", "age": 30.5, "country": "China", "signup_date": "2023-10-10", "total_spend": 610.25, "is_active": true},
+  {"customer_id": 106, "first_name": "Pedro", "last_name": "Silva", "email": "pedro.silva@example.com", "age": 39, "country": "Brazil", "signup_date": "2022-02-14", "total_spend": 75.0, "is_active": "maybe"},
+  "this is not a customer record",
+  {"customer_id": 101, "first_name": "Liam", "last_name": "Nguyen", "email": "liam.nguyen@example.com", "age": 36, "country": "Vietnam", "signup_date": "2023-04-11", "total_spend": 999.0, "is_active": true},
+  {"customer_id": 107, "first_name": "Quinn", "last_name": "Murphy", "email": "quinn.murphy@example.com", "age": 25, "country": "Ireland", "signup_date": "2030-01-01", "total_spend": 10.0, "is_active": true},
+  {"customer_id": 108, "first_name": "Ravi", "last_name": "Kumar", "email": "ravi.kumar@example.com", "age": 47, "country": "India", "signup_date": "2020-06-30", "total_spend": 3200.0, "is_active": true, "notes": "VIP customer"}
+]

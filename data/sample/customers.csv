@@ -1,0 +1,14 @@
+customer_id,first_name,last_name,email,age,country,signup_date,total_spend,is_active
+1,Alice,Johnson,alice.johnson@example.com,34,USA,2023-01-15,1250.50,true
+2,Bob,Smith,bob.smith@example.com,45,UK,2022-11-03,890.00,true
+3,Carla,Gomez,carla.gomez@example.com,,Spain,2024-03-22,,false
+4,David,Lee,DAVID.LEE@Example.com,29,Canada,2023-07-09,310.75,yes
+5,Emma,Brown,emma.brown-at-example.com,38,Australia,2023-05-30,540.00,true
+6,Farhan,Ali,farhan.ali@example.com,abc,India,2024-01-12,75.20,true
+7,,Wilson,grace.wilson@example.com,52,USA,2021-09-18,2200.00,false
+8,Hiro,Tanaka,hiro.tanaka@example.com,41,Japan,2023-13-01,980.40,true
+9,Ines,Martin,ines.martin@example.com,27,France,2022-06-25,-50.00,true
+2,Bob,Smith,bob.smith@example.com,45,UK,2022-11-03,890.00,true
+10,Jack,Taylor,jack.taylor@example.com,33,USA
+
+11,Kavya,Rao,kavya.rao@example.com,31,India,2024-02-14,1500.00,true
